@@ -8,6 +8,9 @@ public class MainLoop {
             |    it's... a calculator. use +,-,*,/ and ^.   |
             |      use sqrt() to take the square root.      |
             |           Press enter to calculate            |
+            +-----------------------------------------------+
+            |Please beware that multiple power (^) operators|
+            | will act like parenthesis. (1^2^3 is 1^(2^3)) |
             +===============================================+
             """;
     public static void main(String[] args) {
